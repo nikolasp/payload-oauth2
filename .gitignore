@@ -243,8 +243,8 @@ components/styles.css
 dev/generated-types.ts
 dev/generated-schema.graphql
 
-# Ignore dist, no need for git
-dist
+# Don't ignore dist since we are are fetching the library from github
+# dist
 
 dev/src/uploads
 
